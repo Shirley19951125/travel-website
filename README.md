@@ -1,21 +1,5 @@
-# travel
+本项目主要包括首页和地点页。
 
-> A Vue.js project
+🏝首页可以进行地点页面跳转，推荐内容轮播，旅游内容展示。
+🏠地点页包含地点选择功能，地点搜索功能以及根据地点首字母进行屏幕定位功能。
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
